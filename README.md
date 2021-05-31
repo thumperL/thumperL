@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **vue.js**
 
+- 👏 Recently lead a team of another 2 juniors to complete a **Simple Twitter chat notification platform in 2 days**
+
 - 📫 How to reach me **dev@banana.ooo**
 
 
