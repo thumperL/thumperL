@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Thumper</h1>
 <h3 align="center">A fullstack web dev. Willing to give anything a try!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thumperl&label=Profile%20views&color=0e75b6&style=flat" alt="thumperl" /> </p>
-
 - 🧑‍💻 I've been working as a LAMP fullstack for **5 years**
 
 - 🚀 I’ve been sharpening my skills on the side on **MEVN stack**
