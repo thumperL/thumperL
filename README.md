@@ -9,7 +9,7 @@
 
 - 👏 Recently lead a team of another 2 juniors to complete a **Simple Twitter chat notification platform in 2 days**
 
-- 📫 How to reach me **dev@banana.ooo**
+- 📫 How to reach me **name.is.thumper@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
