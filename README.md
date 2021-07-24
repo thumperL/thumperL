@@ -1,13 +1,11 @@
 <h1 align="center">Hello 👋, I'm Thumper</h1>
 <h3 align="center">A fullstack web dev. Willing to give anything a try!</h3>
 
-- 🧑‍💻 I've been working as a LAMP fullstack for **5 years**
+- 🧑‍💻 I've been working as a LAMP fullstack for **6 years**
 
 - 🚀 I’ve been sharpening my skills on the side on **MEVN stack**
 
 - 🌱 I’m currently learning **vue.js**
-
-- 👏 Recently lead a team of another 2 juniors to complete a **Simple Twitter chat notification platform in 2 days**
 
 - 📫 How to reach me **name.is.thumper@gmail.com**
 
