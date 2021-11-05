@@ -3,9 +3,9 @@
 
 - 🧑‍💻 I've been working as a LAMP fullstack for **6 years**
 
-- 🚀 I’ve been sharpening my skills on the side on **MEVN stack**
+- 🚀 I’ve been sharpening my skills on the side on **MERN stack**
 
-- 🌱 I’m currently learning **vue.js**
+- 🌱 I’m currently learning **react.js**
 
 - 📫 How to reach me **name.is.thumper@gmail.com**
 
